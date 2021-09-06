@@ -14,7 +14,7 @@ sections:
     image: /images/WhatsApp Image 2021-04-01 at 09.27.32 (1).jpeg
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
