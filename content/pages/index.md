@@ -18,7 +18,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image: /images/WhatsApp Image 2021-09-05 at 11.51.37.jpeg
     background_image_repeat: no-repeat
     background_image_size: cover
